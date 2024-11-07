@@ -27,7 +27,7 @@ A responsive, static car website built with **React** and **Vite**, utilizing **
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/static-car-website.git
+git clone [https://github.com/your-username/static-car-website.git](https://github.com/Alirazaramejo/Cars-static-web.git)
 cd static-car-website
 ```
 
